@@ -1,4 +1,0 @@
-../02-count/text.txt
-../02-count/text.txt
-../02-count/text.txt
-../02-count/text.txt
